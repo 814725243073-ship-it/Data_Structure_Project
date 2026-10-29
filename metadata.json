@@ -1,0 +1,6 @@
+{
+  "name": "PRISM Data Layer - SIH 2026",
+  "description": "Single source of truth data model, Node.js + Express backend, Gemini Flash adaptation & evaluation engine, in-memory state repository, and schema governance validator for PRISM (SIH26205).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
